@@ -4,7 +4,7 @@
 |트리|[링크](http://boj.kr/1068)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/12-트리/문제별%20코드/1068-트리)||
 |**연습문제**||||
 |트리|[링크](http://boj.kr/4803)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/12-트리/문제별%20코드/4803-트리)|[O](https://github.com/DongwookKim0823/Algorithm/blob/master/Baekjoon%20Online%20Judge/4803.py)|
-|트리 순회|[링크](http://boj.kr/1991)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/12-트리/문제별%20코드/1991-트리%20순회)||
+|트리 순회|[링크](http://boj.kr/1991)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/12-트리/문제별%20코드/1991-트리%20순회)|[O](https://github.com/DongwookKim0823/Algorithm/blob/master/Baekjoon%20Online%20Judge/1991.py)|
 |이진 검색 트리|[링크](http://boj.kr/5639)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/12-트리/문제별%20코드/5639-이진%20검색%20트리)||
 |나무 탈출|[링크](http://boj.kr/15900)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/12-트리/문제별%20코드/15900-나무%20탈출)||
 |부동산 다툼|[링크](http://boj.kr/20364)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/12-트리/문제별%20코드/20364-부동산%20다툼)||
