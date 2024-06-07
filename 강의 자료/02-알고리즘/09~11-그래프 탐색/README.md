@@ -10,7 +10,7 @@
 |**연습문제**||||
 |유기농 배추|[링크](http://boj.kr/1012)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/09~11-그래프%20탐색/문제별%20코드/1012-유기농%20배추)|[O](https://github.com/DongwookKim0823/Algorithm/blob/master/Baekjoon%20Online%20Judge/1012.py)|
 |연결 요소의 개수|[링크](http://boj.kr/11724)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/09~11-그래프%20탐색/문제별%20코드/11724-연결%20요소의%20개수)|[O](https://github.com/DongwookKim0823/Algorithm/blob/master/Baekjoon%20Online%20Judge/11724.py)|
-|섬의 개수|[링크](http://boj.kr/4963)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/09~11-그래프%20탐색/문제별%20코드/4963-섬의%20개수)||
+|섬의 개수|[링크](http://boj.kr/4963)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/09~11-그래프%20탐색/문제별%20코드/4963-섬의%20개수)|[O](https://github.com/DongwookKim0823/Algorithm/blob/master/Baekjoon%20Online%20Judge/4963.py)|
 |양|[링크](http://boj.kr/3184)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/09~11-그래프%20탐색/문제별%20코드/3184-양)||
 |바이러스|[링크](http://boj.kr/2606)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/09~11-그래프%20탐색/문제별%20코드/2606-바이러스)||
 |경로 찾기|[링크](http://boj.kr/11403)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/09~11-그래프%20탐색/문제별%20코드/11403-경로%20찾기)||
