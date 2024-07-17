@@ -6,7 +6,7 @@
 |공유기 설치|[링크](http://boj.kr/2110)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/05~06-이분%20탐색/문제별%20코드/2110-공유기%20설치)||
 |**연습문제**||||
 |수 찾기|[링크](http://boj.kr/1920)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/05~06-이분%20탐색/문제별%20코드/1920-수%20찾기)|[O](https://github.com/DongwookKim0823/Algorithm/blob/master/Baekjoon%20Online%20Judge/1920.py)|
-|듣보잡|[링크](http://boj.kr/1764)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/05~06-이분%20탐색/문제별%20코드/1764-듣보잡)||
+|듣보잡|[링크](http://boj.kr/1764)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/05~06-이분%20탐색/문제별%20코드/1764-듣보잡)|[O](https://github.com/DongwookKim0823/Algorithm/blob/master/Baekjoon%20Online%20Judge/1764.py)|
 |두 수의 합|[링크](http://boj.kr/3273)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/05~06-이분%20탐색/문제별%20코드/3273-두%20수의%20합)||
 |숫자 카드 2|[링크](http://boj.kr/10816)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/05~06-이분%20탐색/문제별%20코드/10816-숫자%20카드%202)||
 |랜선 자르기|[링크](http://boj.kr/1654)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/05~06-이분%20탐색/문제별%20코드/1654-랜선%20자르기)|[O](https://github.com/DongwookKim0823/Algorithm/blob/master/Baekjoon%20Online%20Judge/1654.py)|
