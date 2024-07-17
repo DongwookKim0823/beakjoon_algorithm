@@ -9,4 +9,4 @@
 |**연습문제**|
 |부분수열의 합|[링크](http://boj.kr/1182)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/01~02-완전%20탐색/문제별%20코드/1182-부분수열의%20합)|[O](https://github.com/DongwookKim0823/Algorithm/blob/master/Baekjoon%20Online%20Judge/1182.py)|
 |암호 만들기|[링크](http://boj.kr/1759)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/01~02-완전%20탐색/문제별%20코드/1759-암호%20만들기)|[O](https://github.com/DongwookKim0823/Algorithm/blob/master/Baekjoon%20Online%20Judge/1759.py)|
-|N과 M (9)|[링크](http://boj.kr/15663)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/01~02-완전%20탐색/문제별%20코드/15663-N과%20M(9))||
+|N과 M (9)|[링크](http://boj.kr/15663)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/01~02-완전%20탐색/문제별%20코드/15663-N과%20M(9))|[O](https://github.com/DongwookKim0823/Algorithm/blob/master/Baekjoon%20Online%20Judge/15663.py)|
