@@ -1,7 +1,7 @@
 |문제 이름|문제 링크|답안 코드 링크|해결|
 |---|---|---|---|
 |1, 2, 3 더하기|[링크](http://boj.kr/9095)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/15~17-동적%20프로그래밍/문제별%20코드/9095-1,%202,%203%20더하기)|[O](https://github.com/DongwookKim0823/Algorithm/blob/master/Baekjoon%20Online%20Judge/9095.py)|
-|2×n 타일링|[링크](http://boj.kr/11726)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/15~17-동적%20프로그래밍/문제별%20코드/11726-2xN%20타일링)||
+|2×n 타일링|[링크](http://boj.kr/11726)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/15~17-동적%20프로그래밍/문제별%20코드/11726-2xN%20타일링)|[O](https://github.com/DongwookKim0823/Algorithm/blob/master/Baekjoon%20Online%20Judge/11726.py)|
 |계단 오르기|[링크](http://boj.kr/2579)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/15~17-동적%20프로그래밍/문제별%20코드/2579-계단%20오르기)||
 |오르막 수|[링크](http://boj.kr/11057)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/15~17-동적%20프로그래밍/문제별%20코드/11057-오르막%20수)||
 |파일 합치기|[링크](http://boj.kr/11066)|[링크](https://github.com/rhs0266/FastCampus/tree/main/%EA%B0%95%EC%9D%98%20%EC%9E%90%EB%A3%8C/02-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/15~17-동적%20프로그래밍/문제별%20코드/11066-파일%20합치기)||
